@@ -26,6 +26,6 @@ The Web Client/Server Architecture:
 
 Run project:
 -------------------
-* Clone repository
+* Clone repository: git clone https://github.com/missserious/simple-service.git
 * mvn clean compile
 * mvn exec:java
