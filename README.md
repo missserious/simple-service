@@ -23,3 +23,9 @@ The Web Client/Server Architecture:
 * Data is serialized into JSON (JavaScript Object Notation)
 * For storing data MongoDB (a NoSQL database) is choosen
 * Access API: http://localhost:8080/users
+
+Run project:
+-------------------
+* Clone repository
+* mvn clean compile
+* mvn exec:java
