@@ -1,12 +1,9 @@
-Coding Challenge: "Location tracker"
+"Location tracker"
 ====================================
-
-Commanders Intend:
------------------
-Build a web app, which stores user locations.
+Web app, which stores user locations.
 
 
-Acceptance Criteria:
+Criteria:
 -------------------
 * The web app has an HTML front-end, which is the user interface
 * The user's location is retrieved from the HTML5 Geolocation API
